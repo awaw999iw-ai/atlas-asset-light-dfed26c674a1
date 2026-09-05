@@ -1,0 +1,41 @@
+{
+  "asset_id": "ASSET-LIGHT-dfed26c674a1",
+  "created_at_utc": "2026-09-05T19:01:24.690151+00:00",
+  "ownership": "OWNER_OWNED",
+  "transferable": true,
+  "portfolio_candidate": true,
+  "blueprint_id": "JSON_CSV_TRANSFORMER",
+  "generation": 1,
+  "type": "DATA_TOOL",
+  "name": "JSON CSV Transformer",
+  "topic": "JSON CSV Transformer",
+  "status": "HYPOTHESIS",
+  "product_spec": {
+    "core_action": "convert and reshape structured JSON or CSV data",
+    "repeat_reason": "structured data conversion is repeatedly needed",
+    "paid_extension": "saved recipes, larger batches, API access"
+  },
+  "monetization_hypothesis": "saved recipes, larger batches, API access",
+  "mission_fit": {
+    "owned_asset": true,
+    "requires_employment": false,
+    "requires_manual_service": false,
+    "affiliate_only": false,
+    "zero_spend_build": true,
+    "local_llm": false
+  },
+  "evidence": {
+    "real_users": 0,
+    "verified_revenue_rub": 0,
+    "strong_external_evidence": false
+  },
+  "growth": {
+    "acquisition_attempts": 0
+  },
+  "built_at_utc": "2026-09-05T19:01:25.398456+00:00",
+  "asset_path": "assets/light/ASSET-LIGHT-dfed26c674a1",
+  "artifact_type": "OWNED_DIGITAL_ASSET_MVP",
+  "local_llm": false,
+  "spend_rub": 0,
+  "reusable": true
+}
